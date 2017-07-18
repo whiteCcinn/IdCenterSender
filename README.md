@@ -1,6 +1,6 @@
 <h1 align="center">IdCenterSender ---PHP实现-64位分布式自增发号器</h1>
 
-# C语言实现的PHP扩展的形式
+### C语言实现的PHP扩展的形式
 
 - [IdCenterSender.so - PHP扩展版本](https://github.com/whiteCcinn/IdCenterSender-so)
 
