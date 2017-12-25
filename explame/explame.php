@@ -2,7 +2,8 @@
 
 // Main invoke example:
 
-include_once '../cckeyid/IdCenterSender.php';
+$root = dirname(__DIR__);
+include_once $root . '/cckeyid/IdCenterSender.php';
 
 echo \cckeyid\IdCenterSender::getInstance()->ck_get_new_id(1);
 
